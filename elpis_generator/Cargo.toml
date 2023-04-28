@@ -1,0 +1,9 @@
+[package]
+name = "elpis_generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0.160", features = ["std", "derive"] }
+serde_json = { version = "1.0.96", features = ["std"] }
+thiserror = "1.0.40"

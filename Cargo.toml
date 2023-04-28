@@ -1,0 +1,2 @@
+[workspace]
+members = ["elpis", "elpis_generator", "elpis_generated"]
